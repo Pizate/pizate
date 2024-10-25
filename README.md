@@ -9,7 +9,7 @@ também faço parte do time Enactus UFOP e Rotaract Club João Monlevade.
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernanda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Fernanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fernanda-Java" height="30" width="40" src="https://ravel.com.br/blog/wp-content/uploads/2020/09/Java-Capa.png">
+  <img align="center" alt="Fernanda-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernanda-Figma" height="30" width="40" src="https://designimador.com.br/wp-content/uploads/2022/09/figma-759x500.png.webp"
   
